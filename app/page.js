@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center">
       
-            <img src="/bg.png" alt="coming soon" className="h-screen" />
+            <img src="/bg.png" alt="coming soon" className="h-screen object-contain" />
     </main>
   )
 }
